@@ -1,43 +1,31 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
+Personal goals for 2018. I will be updating these throughout the year.
+
+Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb):  -- thank you @@xdesro for this awesome CodePen :) https://codepen.io/xdesro/
 
 # Goals for 2018:
-1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
-
-I'm also doing 5 25-Days Projects in 2017:
-
-1. ⭕ Running 
-2. ⭕ Writing Letters
-3. ✅ Mentorship
-4. 🌀 Dev Doodles
-5. ✅ Meditation (23 consecutive)
-
-# August 20, 2017
-
-### This Week's Focus: Writing & Walking
+1. Be a JavaScript wizard
+2. Take note of interesting ideas/thoughts for projects
+3. Stay experimental and creative
 
 ### Things I'll Do in January:
 
-- [ ] 🎙 Record/Post Toolsday Episode
+- [ ] Wes Bos's [JavaScript 30](https://javascript30.com/) course
 
 ### Things I'll Do in February:
 
-- [ ] 🎙 Record/Post Toolsday Episode
+- [ ] Wes Bos's [React](https://reactforbeginners.com/) course
 
 ### Things I'll Do in March:
 
-- [ ] 🎙 Record/Post Toolsday Episode
+- [ ] Wes Bos's [Node.js](https://learnnode.com/) course
 
 ### Things I'll Do in April:
 
-- [ ] 🎙 Record/Post Toolsday Episode
+- [ ] Rachel Nabor's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
 
-### Things I'll Do in the Future:
+### Things I'll Do in May:
 
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Sarah Drasner's [Advanced SVG Animation](https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html) course
