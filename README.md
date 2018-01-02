@@ -1,11 +1,11 @@
-Personal Goals
+# Personal Goals
 ==============
 
 Personal goals for 2018. I will be updating these throughout the year.
 
 Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb):  -- thank you @@xdesro for this awesome CodePen :) https://codepen.io/xdesro/
 
-# Goals for 2018:
+## Goals for 2018:
 1. Be a JavaScript wizard
 2. Take note of interesting ideas/thoughts for projects
 3. Stay experimental and creative
