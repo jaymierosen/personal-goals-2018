@@ -24,7 +24,7 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 
 ### Things I'll Do in April:
 
-- [ ] Rachel Nabor's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
+- [ ] Rachel Nabors's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
 
 ### Things I'll Do in May:
 
