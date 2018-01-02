@@ -3,6 +3,8 @@
 
 Personal goals for 2018. I will be updating these throughout the year.
 
+Inspired by [Una](https://github.com/una/personal-goals).
+
 Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb):  -- thank you @@xdesro for this awesome CodePen :) https://codepen.io/xdesro/
 
 ## Goals for 2018:
