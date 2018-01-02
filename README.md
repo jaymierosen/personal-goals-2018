@@ -12,22 +12,26 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 2. Take note of interesting ideas/thoughts for projects
 3. Stay experimental and creative
 
-### Things I'll Do in January:
+### Things I'll Do in *January*:
 
 - [ ] Wes Bos's [JavaScript 30](https://javascript30.com/) course
 
-### Things I'll Do in February:
+### Things I'll Do in *February*:
 
 - [ ] Wes Bos's [React](https://reactforbeginners.com/) course
 
-### Things I'll Do in March:
+### Things I'll Do in *March*:
 
 - [ ] Wes Bos's [Node.js](https://learnnode.com/) course
 
-### Things I'll Do in April:
+### Things I'll Do in *April*:
+
+- [ ] Learn [Vue.js](https://vuejs.org/) --> [Sarah Drasner's course](https://github.com/sdras/intro-to-vue)
+
+### Things I'll Do in *May*:
 
 - [ ] Rachel Nabors's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
 
-### Things I'll Do in May:
+### Things I'll Do in *June*:
 
 - [ ] Sarah Drasner's [Advanced SVG Animation](https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html) course
