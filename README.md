@@ -35,3 +35,35 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 ### Things I'll Do in *June*:
 
 - [ ] Sarah Drasner's [Advanced SVG Animation](https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html) course
+
+## Fun Stuff:
+
+### TV shows to watch:
+
+- [ ] Portlandia
+- [ ] Six Feet Under
+- [ ] The Wire
+- [ ] Westworld
+- [ ] Halt and Catch Fire
+
+### Movies to watch:
+
+- [ ] Incredibles 2
+- [ ] Ocean's 8
+- [ ] Deadpool Sequel
+- [ ] A Star Is Born
+- [ ] Avengers: Infinity War
+- [ ] Isle of Dogs
+- [ ] Game Night
+- [ ] The Shape of Water
+- [ ] Jumanji: Welcome to the Jungle
+- [ ] Black Panther
+- [ ] Early Man
+- [ ] Pitch Perfect 3
+- [ ] Star Wars: The Last Jedi
+- [ ] A Wrinkle in Time (2018)
+- [ ] The Jungle Book (2018)
+- [ ] X-Men: Dark Phoenix (2018)
+- [ ] The Grinch (2018)
+- [ ] Wreck-It Ralph
+- [ ] Ralph Breaks the Internet: Wreck-It Ralph 2 (2018)
