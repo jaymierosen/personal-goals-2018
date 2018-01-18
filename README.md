@@ -18,21 +18,25 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 
 ### Things I'll Do in *February*:
 
-- [ ] Wes Bos's [React](https://reactforbeginners.com/) course
+- [ ] Wes Bos's [CSS Grid](https://cssgrid.io/) course
 
 ### Things I'll Do in *March*:
 
-- [ ] Wes Bos's [Node.js](https://learnnode.com/) course
+- [ ] Wes Bos's [React](https://reactforbeginners.com/) course
 
 ### Things I'll Do in *April*:
 
-- [ ] Learn [Vue.js](https://vuejs.org/) --> [Sarah Drasner's course](https://github.com/sdras/intro-to-vue)
+- [ ] Wes Bos's [Node.js](https://learnnode.com/) course
 
 ### Things I'll Do in *May*:
 
-- [ ] Rachel Nabors's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
+- [ ] Learn [Vue.js](https://vuejs.org/) --> [Sarah Drasner's course](https://github.com/sdras/intro-to-vue)
 
 ### Things I'll Do in *June*:
+
+- [ ] Rachel Nabors's [Motion Design with CSS](https://www.lynda.com/CSS-tutorials/Motion-Design-CSS/604273-2.html) course
+
+### Things I'll Do in *July*:
 
 - [ ] Sarah Drasner's [Advanced SVG Animation](https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html) course
 
@@ -45,6 +49,8 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 - [ ] The Wire
 - [ ] Westworld
 - [ ] Halt and Catch Fire
+- [ ] Beast Wars
+- [ ] Reboot
 
 ### Movies to watch:
 
@@ -55,7 +61,7 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 - [ ] Avengers: Infinity War
 - [ ] Isle of Dogs
 - [ ] Game Night
-- [ ] The Shape of Water
+- [x] The Shape of Water
 - [ ] Jumanji: Welcome to the Jungle
 - [ ] Black Panther
 - [ ] Early Man
