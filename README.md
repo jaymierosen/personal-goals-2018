@@ -54,6 +54,7 @@ Visual representation of goals [here](https://codepen.io/jaymierosen/pen/aEJzBb)
 
 ### Movies to watch:
 
+- [ ] I, Tonya
 - [ ] Incredibles 2
 - [ ] Ocean's 8
 - [ ] Deadpool Sequel
